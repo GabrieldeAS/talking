@@ -1,0 +1,6 @@
+# just install these on your machine
+apt-get install ffmpeg
+pip3 install vosk
+
+# you may want to check vosk examples for more applications (may require extra modules)
+# your voice may have some unique value, if you use speaker recognition
