@@ -5,11 +5,14 @@ Using vanilla Vosk offline, an Automatic Speech Recognition API, built in C++ us
 links: https://github.com/alphacep/vosk-api
        https://github.com/kaldi-asr/kaldi
 
-There are many online APIs in Google, IBM and other big players. Other offline options are Mozilla's deepspeech, Baidu's Deepspeech 2.0, EESEN, pure Kaldi. The best Portuguese free, offline model so far is Vosk's.
+There are many online APIs in Google, IBM and other big players. Other offline options are Mozilla's deepspeech, Baidu's Deep Speech 3, EESEN, pure Kaldi, Pypi's SpeechRecognition with Pocket Sphinx. The best Portuguese free, offline model so far is Vosk's.
 
 # NLP
-Using
+Basic: NLTK 
+Advanced: 
+
 # TTS
-Using 
+Simple: espeak, https://github.com/festvox/flite
+Sophisticated: Baidu's Deep Voice 3, https://github.com/npuichigo/waveglow
 
 # some inspiration came from here: https://www.youtube.com/watch?v=JotriGSKgxo&list=PL39zyvnHdXh_49CscgyFrJVSGio5zZlIn&ab_channel=C%C3%B3digoLogo
